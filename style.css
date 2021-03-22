@@ -1,0 +1,25 @@
+.body {
+    margin-top:0px;
+}
+
+
+.fem-bilder {
+    margin:8px;
+    float:left;
+
+}
+
+.fem-bilder:hover {
+    border: 1px solid black;
+}
+
+.fem-bilder img {
+    width:100px;
+    height:100px;
+}
+
+.titel {
+    padding:15px;
+    text-align:center;
+    font-family: arial;
+}
